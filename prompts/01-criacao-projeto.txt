@@ -1,7 +1,7 @@
 [EGSS • Criação de Projeto Padrão - Fluxo GRATUITO]
 Crie o repositório no GitHub seguindo o padrão de nomeação EGSS:
 
-{produto}-{componente}[-tipo]-free
+{produto}-{componente}[-tipo]-gratuito
 
 Após criar:
 
