@@ -1,5 +1,0 @@
-[EGSS • Integração com Vercel - Fluxo Gratuito]
-Conecte à Vercel (Hobby). Deploy:
-
-* main → produção
-  Vars: SUPABASE_URL, SUPABASE_KEY, SUPABASE_ENV

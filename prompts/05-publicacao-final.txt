@@ -1,5 +1,0 @@
-[EGSS • Publicação - Fluxo Gratuito]
-
-* Validar nome {produto}-{componente}[-tipo]-gratuito
-* Commit direto do Bolt na main (ou PR+auto-merge)
-* Ver deploy da Vercel
