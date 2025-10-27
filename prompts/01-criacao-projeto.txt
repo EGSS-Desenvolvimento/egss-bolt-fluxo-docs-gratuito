@@ -1,0 +1,10 @@
+[EGSS • Criação de Projeto Padrão - Fluxo GRATUITO]
+Crie o repositório no GitHub seguindo o padrão de nomeação EGSS:
+
+{produto}-{componente}[-tipo]-free
+
+Após criar:
+
+* Somente `main` (padrão).
+* Proteja `main` exigindo PR p/ devs e bloqueando auto-aprovação.
+* Permita commit direto apenas do Bolt (se disponível "Restrict who can push"); caso contrário, Bolt também usa PR + auto-merge.

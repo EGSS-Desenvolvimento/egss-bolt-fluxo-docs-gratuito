@@ -1,0 +1,8 @@
+[EGSS • Integração com Supabase - Fluxo Gratuito]
+Conecte este projeto ao Supabase Gratuito (um único projeto).
+Variáveis:
+
+* SUPABASE_URL
+* SUPABASE_KEY
+* SUPABASE_PROJECT_ID
+* SUPABASE_ENV=main

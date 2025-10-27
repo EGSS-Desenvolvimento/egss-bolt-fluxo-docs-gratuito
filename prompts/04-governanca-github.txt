@@ -1,0 +1,7 @@
+[EGSS • Governança - Fluxo Gratuito]
+Branch Protection em `main`:
+
+* Exigir PR para devs
+* Autor não pode aprovar
+* (Se disponível) Restrict who can push → somente Bolt
+* Caso contrário: Bolt também via PR (auto-merge por checks)
