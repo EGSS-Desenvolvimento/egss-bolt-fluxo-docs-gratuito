@@ -9,7 +9,7 @@
 
 Este repositório centraliza os **prompts oficiais EGSS** para o **Fluxo Gratuito (single-branch)** no **Bolt.new** e descreve o **ciclo completo de funcionamento**, garantindo:
 
-- Padrão de nomeação `{produto}-{componente}[-tipo]-free`;
+- Padrão de nomeação `{produto}-{componente}[-tipo]-gratuito`;
 - Fluxo **single-branch** (`main`);
 - **Apenas o Bolt** pode commitar direto na `main`;
 - **Devs** só alteram via **Pull Request** e **quem cria não aprova**;
@@ -31,7 +31,7 @@ Cada prompt abaixo é usado em um momento específico do ciclo do projeto.
 [EGSS • Criação de Projeto Padrão - Fluxo GRATUITO]
 Crie o repositório no GitHub seguindo o padrão de nomeação EGSS:
 
-{produto}-{componente}[-tipo]-free
+{produto}-{componente}[-tipo]-gratuito
 
 Onde:
 - {produto}: nome do sistema, produto ou cliente (ex: erp, portalaluno, siteimobiliaria)
@@ -120,7 +120,7 @@ Objetivo:
 [EGSS • Publicação - Fluxo Gratuito]
 Finalize a publicação:
 
-1️⃣ Confirme que o nome segue {produto}-{componente}[-tipo]-free.  
+1️⃣ Confirme que o nome segue {produto}-{componente}[-tipo]-gratuito.  
 2️⃣ Faça o commit final do Bolt em `main` (ou PR + auto-merge, conforme o caso).  
 3️⃣ Aguarde o deploy automático na Vercel Hobby.  
 4️⃣ Valide as rotas e APIs conectadas ao Supabase Gratuito.
@@ -137,7 +137,7 @@ Finalize a publicação:
 ## 🧭 1️⃣ Inicialização no Bolt.new
 
 * Inicie o projeto no Bolt.new e cole o **Prompt 1**.
-* O repositório é criado no GitHub com nome `{produto}-{componente}[-tipo]-free`.
+* O repositório é criado no GitHub com nome `{produto}-{componente}[-tipo]-gratuito`.
 * Branch padrão: `main`.
 
 ---
